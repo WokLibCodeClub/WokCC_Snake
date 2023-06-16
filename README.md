@@ -15,3 +15,8 @@ For those who weren't at the session but would like to catch up with what we did
 
 The code as it was at the end of this session can be found here:
 [https://trinket.io/python/6058171b54](https://trinket.io/python/6058171b54)
+
+------------------------------------------------------------------------
+
+### First session: Saturday 3 June 2023
+
