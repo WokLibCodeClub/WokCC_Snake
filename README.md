@@ -2,6 +2,8 @@
 
 This is a Snake game using Python turtles. It is written in trinket.
 
+------------------------------------------------------------------------
+
 ### First session: Saturday 3 June 2023
 
 We started building this project at our session on Saturday 3 June 2023.
