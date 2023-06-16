@@ -18,5 +18,9 @@ The code as it was at the end of this session can be found here:
 
 ------------------------------------------------------------------------
 
-### First session: Saturday 3 June 2023
+### Second session: Saturday 24 June 2023
+
+In the second session we will start by making the snake body move along with the snake head. To do this we will need to use a Python ```for``` loop with some clever use of the ```range()``` function. We will use this trinket to help work out the correct values for ```range()```:
+
+[https://trinket.io/python/e195b4cf07](https://trinket.io/python/e195b4cf07)
 
