@@ -30,7 +30,7 @@ We used a powerpoint presentation to show how the snake body segments are moved.
 
 [Moving Snake Body.pptx](https://github.com/WokLibCodeClub/WokCC_Snake/blob/main/Moving%20Snake%20Body.pptx)
 
-(When you click on this link look for the Download symbol next to the word "Raw" at the top right of the page and click on it to download the file to your computer.)
+(When you click on this link look for the Download symbol or button at the top right of the page and click on it to download the file to your computer.)
 
 We also wrote a function to handle the snake eating the food.
 
