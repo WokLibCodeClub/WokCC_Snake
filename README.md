@@ -28,7 +28,7 @@ In the second session we wrote code to make the snake body move along with the s
 
 We used a powerpoint presentation to show how the snake body segments are moved. You can download the presentation here:
 
-[Moving%20Snake%20Body.pptx](https://github.com/WokLibCodeClub/WokCC_Snake/blob/main/Moving%20Snake%20Body.pptx)
+[Moving Snake Body.pptx](https://github.com/WokLibCodeClub/WokCC_Snake/blob/main/Moving%20Snake%20Body.pptx)
 
 We also wrote a function to handle the snake eating the food.
 
