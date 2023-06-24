@@ -22,7 +22,15 @@ The code as it was at the end of this session can be found here:
 
 ### Second session: Saturday 24 June 2023
 
-In the second session we will start by making the snake body move along with the snake head. To do this we will need to use a Python ```for``` loop with some clever use of the ```range()``` function. We will use a little Python programme to help work out the correct values for ```range()```. The link is:
+In the second session we wrote code to make the snake body move along with the snake head, with a Python ```for``` loop with some clever use of the ```range()``` function. We looked at a little Python programme to help work out the correct parameters for ```range()```. The link to this project is:
 
 [https://trinket.io/python/e195b4cf07](https://trinket.io/python/e195b4cf07)
 
+We used a powerpoint presentation to show how the snake body segments are moved. You can download the presentation here:
+
+We also wrote a function to handle the snake eating the food.
+
+In the next few days we will make a video covering what we did at the session for the benefit of anyone who couldn't make it in person. The link will appear here.
+
+The code as it was at the end of this session can be found here:
+[https://trinket.io/python/8df1bdf063](https://trinket.io/python/8df1bdf063)
