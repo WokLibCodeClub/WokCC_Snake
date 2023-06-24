@@ -26,9 +26,7 @@ In the second session we wrote code to make the snake body move along with the s
 
 [https://trinket.io/python/e195b4cf07](https://trinket.io/python/e195b4cf07)
 
-We used a powerpoint presentation to show how the snake body segments are moved. You can download the presentation here:
-
-[Moving Snake Body.pptx](https://github.com/WokLibCodeClub/WokCC_Snake/blob/main/Moving%20Snake%20Body.pptx)
+We used a powerpoint presentation to show how the snake body segments are moved. You can download the presentation here: [Moving Snake Body.pptx](https://github.com/WokLibCodeClub/WokCC_Snake/blob/main/Moving%20Snake%20Body.pptx)
 
 (When you click on this link look for the Download symbol or button at the top right of the page and click on it to download the file to your computer.)
 
