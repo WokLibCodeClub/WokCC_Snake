@@ -32,7 +32,15 @@ We used a powerpoint presentation to show how the snake body segments are moved.
 
 We also wrote a function to handle the snake eating the food.
 
-In the next few days we will make a video covering what we did at the session for the benefit of anyone who couldn't make it in person. The link will appear here.
+There is a video covering what we did at the session for the benefit of anyone who couldn't make it in person. The link is
+
+[youtu.be/8W0VJN6mbfQ](https://youtu.be/8W0VJN6mbfQ)
 
 The code as it was at the end of this session can be found here:
 [https://trinket.io/python/8df1bdf063](https://trinket.io/python/8df1bdf063)
+
+------------------------------------------------------------------------
+
+### Third session: Saturday 1 July 2023
+
+At the end of the second session we left a poser for you to think about. How can we reduce the value of the variable ```delay``` each time the snake eats food but without the value ever becoming negative? Hopefully you can come up with ideas for the final session.
