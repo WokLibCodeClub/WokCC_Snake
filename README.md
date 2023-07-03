@@ -43,4 +43,11 @@ The code as it was at the end of this session can be found here:
 
 ### Third session: Saturday 1 July 2023
 
-At the end of the second session we left a poser for you to think about. How can we reduce the value of the variable ```delay``` each time the snake eats food but without the value ever becoming negative? Hopefully you can come up with ideas for the final session.
+At the end of the second session we left a poser for you to think about. How can we reduce the value of the variable ```delay``` each time the snake eats food but without the value ever becoming negative?
+
+In the third and final session we suggested one way of doing this, and added code to detect if the snake crossed over itself. We displayed the score and coded the updating of the High Score variable.
+
+We will make a video summarising this session and post the link here.
+
+The code as it was at the end of this session can be found here:
+[https://trinket.io/python/99ce921faa](https://trinket.io/python/99ce921faa)
