@@ -43,11 +43,17 @@ The code as it was at the end of this session can be found here:
 
 ### Third session: Saturday 1 July 2023
 
-At the end of the second session we left a poser for you to think about. How can we reduce the value of the variable ```delay``` each time the snake eats food but without the value ever becoming negative?
+In the third session we completed our snake game by
 
-In the third and final session we suggested one way of doing this, and added code to detect if the snake crossed over itself. We displayed the score and coded the updating of the High Score variable.
+* coding a way of reducing the value of the variable ```delay``` each time the snake eats food but without the value ever becoming negative
+* writing a function to detect if the snake crosses over itself
+* displaying the player's score and high score and making sure these updated properly.
 
-We will make a video summarising this session and post the link here.
+We also made some suggestions about how you could improve your game. Experiment and have fun!
+
+There is a video covering what we did at the session for the benefit of anyone who couldn't make it in person. The link is
+
+[youtu.be/VWwEfxg_Gm0](https://youtu.be/VWwEfxg_Gm0)
 
 The code as it was at the end of this session can be found here:
 [https://trinket.io/python/99ce921faa](https://trinket.io/python/99ce921faa)
