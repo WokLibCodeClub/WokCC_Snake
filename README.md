@@ -55,5 +55,5 @@ There is a video covering what we did at the session for the benefit of anyone w
 
 [youtu.be/VWwEfxg_Gm0](https://youtu.be/VWwEfxg_Gm0)
 
-The code as it was at the end of this session can be found here:
+The code for the completed game as it was at the end of this session can be found here:
 [https://trinket.io/python/99ce921faa](https://trinket.io/python/99ce921faa)
