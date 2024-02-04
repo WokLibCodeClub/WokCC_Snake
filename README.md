@@ -1,6 +1,6 @@
 # WokCC_Snake
 
-This is a Snake game using Python turtles. It is written using the trinket online editor.
+This is a Snake game using Python turtles. The code is built up using the trinket online editor.
 
 ------------------------------------------------------------------------
 
